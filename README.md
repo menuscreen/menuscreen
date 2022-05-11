@@ -5,7 +5,7 @@
 
 - 📫 How to reach me - **menuscreen.dev@gmail.com**
 
-- 📄 Know about my experiences - [https://menuscreen.dev/resume.html](https://menuscreen.dev/resume.html)
+- 📄 Know about my experiences - [Resume](https://menuscreen.dev/resume.html)
 
 
 <h3 align="left">Connect with me:</h3>
