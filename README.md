@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Michael Scott</h1>
 <h3 align="center">A software engineer in Pennsylvania.</h3>
 
-- 👨‍💻 All of my projects are available at [https://menuscreen.dev](https://menuscreen.dev)
+- 👨‍💻 All of my projects are available at - [https://menuscreen.dev](https://menuscreen.dev)
 
-- 📫 How to reach me **menuscreen.dev@gmail.com**
+- 📫 How to reach me - **menuscreen.dev@gmail.com**
 
-- 📄 Know about my experiences [https://menuscreen.dev/resume.html](https://menuscreen.dev/resume.html)
+- 📄 Know about my experiences - [https://menuscreen.dev/resume.html](https://menuscreen.dev/resume.html)
 
-- ⚡ Fun fact **Catch me dropping in with the boys in Call of Duty: Warzone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
