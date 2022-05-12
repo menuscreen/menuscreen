@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Michael Scott</h1>
 <h3 align="center">A software engineer in Pennsylvania.</h3>
 
-- 👨‍💻 All of my projects are available at - [https://menuscreen.dev](https://menuscreen.dev)
+- 👨‍💻 My projects are available at - [https://menuscreen.dev](https://menuscreen.dev)
 
-- 📫 How to reach me - **menuscreen.dev@gmail.com**
+- 📫 How to reach me - [**Digital Business Card**](https://menuscreen.dev/mycard.html)
 
 - 📄 Know about my experiences - [Resume](https://menuscreen.dev/resume.html)
 
