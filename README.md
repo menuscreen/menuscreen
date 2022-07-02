@@ -1,3 +1,4 @@
+<p align="center"><img align="center" src="https://raw.githubusercontent.com/menuscreen/menuscreen/main/.github/images/menuscreen_github.png" /></p>
 <h1 align="center">Hi 👋, I'm Michael Scott</h1>
 <h3 align="center">A software engineer in Pennsylvania.</h3>
 
