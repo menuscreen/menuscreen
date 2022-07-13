@@ -6,7 +6,7 @@
 
 - 📫 How to reach me - [**Digital Business Card**](https://menuscreen.dev/mycard.html)
 
-- 📄 Know about my experiences - [Resume](https://menuscreen.dev/resume.html)
+- 📄 Know about my experiences - [Resume](https://menuscreen.dev/resume)
 
 
 <h3 align="left">Connect with me:</h3>
