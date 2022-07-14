@@ -4,7 +4,7 @@
 
 - 👨‍💻 My projects are available at - [https://menuscreen.dev](https://menuscreen.dev)
 
-- 📫 How to reach me - [**Digital Business Card**](https://menuscreen.dev/mycard.html)
+- 📫 How to reach me - [**Digital Business Card**](https://menuscreen.dev/contactcard)
 
 - 📄 Know about my experiences - [Resume](https://menuscreen.dev/resume)
 
