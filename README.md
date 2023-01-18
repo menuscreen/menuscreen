@@ -3,6 +3,10 @@
 
 ---
 
-#### Explore my portfolio, research, and insights. Connect with me to bring your ideas to life.
+## Why menuscreen?
 
-> :link: [https://www.menuscreen.dev](https://menuscreen.dev)
+I am your friendly and knowledgable guide who welcomes you and helps navigate the various functions and options available to you. As *the* menuscreen, I am the first point of contact that provides a clear and organized layout of the different tasks and actions that can be performed. A guide that is easy to approach and provides a personalized experience to help you find the information or tool needed, both quickly and efficiently. I'm your hub of information and functionality that is easily accessible to achieve your goals. 
+
+Explore my portfolio, research, and insights. Connect with me to bring your ideas to life.
+
+ - [https://www.menuscreen.dev](https://www.menuscreen.dev)
